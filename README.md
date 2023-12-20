@@ -4,7 +4,13 @@
 ### About
 Join me on the journey in learning more about PySpark and demonstrating these skills through projects. I plan on tapping into tons of open data sets to demonstrate different PySpark skills/ML Models.  
 
-### Additional 
+### Getting Started 
+
+View the [Intro Slide Deck](https://github.com/aspratle/PySpark_Beginners_Guide/blob/main/Intro_PySpark_SlideDeck.pdf) in this repo to learn what PySpark is by definition and key components to PySpark.  
+
+Start with the first notebook (it will be the simplest) to practice data manipulation and exploratory data analysis: [NYC Water Consumption Notebook](https://github.com/aspratle/PySpark_Beginners_Guide/blob/main/NYC_Water_Consumption_EDA.ipynb)
+
+### Additional Resources
 
 - [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/index.html)
 
